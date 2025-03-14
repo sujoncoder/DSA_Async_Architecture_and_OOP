@@ -4,7 +4,7 @@
   "description": "javasacript all in one",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon advance/clone.js"
+    "dev": "nodemon advance/objectClone.js"
   },
   "repository": {
     "type": "git",
