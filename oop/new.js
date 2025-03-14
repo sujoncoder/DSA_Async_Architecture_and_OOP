@@ -10,7 +10,6 @@ function Person(name, age) {
 // console.log(pr.name);
 // console.log(pr1.age);
 
-
 class Greet {
     constructor() {
         console.log("hello")

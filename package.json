@@ -4,7 +4,7 @@
   "description": "javasacript all in one",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon async-programming/async-await.js"
+    "dev": "nodemon advance/clone.js"
   },
   "repository": {
     "type": "git",
