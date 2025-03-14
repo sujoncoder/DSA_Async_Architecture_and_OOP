@@ -1,24 +1,22 @@
 {
-  "name": "async-architecture",
+  "name": "javascript",
   "version": "1.0.0",
-  "main": "callback.js",
+  "description": "javasacript all in one",
+  "main": "index.js",
   "scripts": {
-    "start": "node structuredClone.js",
-    "dev": "nodemon structuredClone.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sujoncoder/Async-Architecture.git"
+    "url": "git+https://github.com/sujoncoder/Async-Architecture_and_OOP.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Sujon Sheikh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sujoncoder/Async-Architecture/issues"
+    "url": "https://github.com/sujoncoder/Async-Architecture_and_OOP/issues"
   },
-  "homepage": "https://github.com/sujoncoder/Async-Architecture#readme",
-  "description": "",
-  "devDependencies": {
+  "homepage": "https://github.com/sujoncoder/Async-Architecture_and_OOP#readme",
+  "dependencies": {
     "nodemon": "^3.1.9"
   }
 }
