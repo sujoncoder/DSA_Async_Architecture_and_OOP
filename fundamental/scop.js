@@ -4,6 +4,7 @@
 }
 // console.log(color)
 
+// GLOBAL SCOPE
 const a = "apple";
 
 // function scop
@@ -28,3 +29,9 @@ function outer(item) {
     inner();
 };
 outer(2);
+
+// NOTE : VAR HAS NO BLOCK SCOPE 
+{
+    var sala = "nooooooooooooo"
+}
+console.log(sala)

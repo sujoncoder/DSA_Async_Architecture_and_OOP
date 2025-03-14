@@ -6,7 +6,7 @@ const enrollSuccess = true;
 const mark = 90;
 
 // ENROLMENT
-const enroll = (callback) => {
+const enroll = () => {
     console.log("Course enrolment is process...");
 
     const promise = new Promise((resolve, reject) => {
@@ -24,7 +24,7 @@ const enroll = (callback) => {
 
 
 // PROGRESS
-const progress = (callback) => {
+const progress = () => {
     console.log("Course on progress...");
 
     const promise = new Promise((resolve, reject) => {

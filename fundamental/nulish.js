@@ -1,3 +1,5 @@
+// NOTE: NULISH WORK ON WHEN DATA NULL OR UNDFINED, THAT TIME YOU WANT TO BE ASSIGN DEFAULT VALUE.
+
 const x = null;
 console.log(x ?? "foo")
 
@@ -27,7 +29,7 @@ num &&= 11;
 console.log(num)
 
 // logical or
-let money = 0rrrrrrr;
+let money = "0rrrrrrr";
 money ||= 10
 console.log(money)
 
