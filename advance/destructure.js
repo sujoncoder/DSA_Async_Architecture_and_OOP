@@ -1,10 +1,13 @@
 // ARRAY DESTRUCTURE
 function added(a, b) {
     return [a * 3, b * 3]
-}
+};
+
 const res = added(2, 4);
 console.log(res)
 
+
+// ARRAY DESTRUCTURE
 const [ak, dui] = added(2, 5);
 console.log("ak", ak, dui)
 

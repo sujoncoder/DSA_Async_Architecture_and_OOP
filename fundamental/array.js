@@ -1,7 +1,10 @@
-const arr = new Array(1, 2, 3)
+// CREATING ARRAY USEING CONSTRUCTOR
+const arr = new Array(1, 2, 3);
 
-const arr2 = [1, 2, 3]
-console.log(arr2[2])
+
+// CREATING ARRAY USING REGULAR SYSTEM.
+const arr2 = [1, 2, 3];
+console.log(arr2[2]);
 
 // console.log(arr === arr2);
 

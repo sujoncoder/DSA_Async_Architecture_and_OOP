@@ -21,9 +21,6 @@ console.log(product?.discount === 0 && 10)
 
 
 
-
-
-
 // logical and
 let num = 1;
 num &&= 11;
