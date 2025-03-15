@@ -4,7 +4,7 @@
   "description": "javasacript all in one",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon fundamental/maps.js"
+    "dev": "nodemon fundamental/currying.js"
   },
   "repository": {
     "type": "git",
